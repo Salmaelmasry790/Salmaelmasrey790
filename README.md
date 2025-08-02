@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Developer;Full-Stack+.NET+Trainee+@+DEPI;Java+%7C+Web+%7C+UI%2FUX+Enthusiast&center=true&width=500&height=50" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Salma Elmasrey</h1>
 <h3 align="center">Aspiring Software Developer | Full-Stack .NET Trainee @ DEPI | Passionate about Web & Java Development 🚀</h3>
 
